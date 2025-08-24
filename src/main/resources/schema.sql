@@ -1,0 +1,3 @@
+-- Optional explicit schema (JPA uses ddl-auto=update). Provided for reference.
+-- create database inventory_db;
+-- use inventory_db;
